@@ -29,7 +29,7 @@
 
     const handleColorSelect = (color: 'red' | 'yellow' | 'green') => {
         onSelectColor(color);
-        setShowOptions(false); // Закрываем панель после выбора цвета
+        setShowOptions(false);
     };
 
     return (

@@ -10,7 +10,7 @@
     border-radius: 5px;
     font-size: 14px;
     transition: background-color 0.3s ease, color 0.3s ease;
-    width: ${(props) => (props.fixedWidth ? '130px' : 'auto')}; /* Фиксированная ширина для кнопки */
+    width: ${(props) => (props.fixedWidth ? '130px' : 'auto')}; 
     text-align: center;
 
     &:hover {

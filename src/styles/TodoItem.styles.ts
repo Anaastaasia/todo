@@ -16,7 +16,7 @@
     color: #000;
     cursor: pointer;
     width: 70%;
-    align-self: center; /* Центрируем задачу внутри родительского контейнера */
+    align-self: center; 
     box-sizing: border-box;
 
     &:hover {
